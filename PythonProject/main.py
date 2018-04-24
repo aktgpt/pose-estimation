@@ -237,8 +237,7 @@ while cap.isOpened():
     toolContours = getToolCurves(imgContours)
 
 
-    # cv2.circle(leftImage, (imgContoursLargest[i][j, 0, 0], imgContoursLargest[i][j, 0, 1]), 3, (0, 0, 255), -1)
-    # cv2.imshow('contours', leftImage)
+   
 
 
 
